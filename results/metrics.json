@@ -1,0 +1,31 @@
+{
+  "samples": 1160,
+  "duration_s": 23.18,
+  "final_position_error_m": 0.06662583446322409,
+  "final_yaw_error_rad": 7.26565885813546e-05,
+  "rmse_m": 0.04749990558310135,
+  "max_error_m": 0.06662624781675652,
+  "initial_world_pose": [
+    -3.553435320435838e-07,
+    2.000000000000392,
+    -7.554212300991998e-19
+  ],
+  "phases": [
+    {
+      "phase": "straight_2m",
+      "start_sim_s": 0.86
+    },
+    {
+      "phase": "left_turn_90deg",
+      "start_sim_s": 10.5
+    },
+    {
+      "phase": "straight_1m",
+      "start_sim_s": 16.48
+    }
+  ],
+  "timestamp_pairing": "exact simulation timestamp",
+  "alignment": "one fixed initial SE(2) transform, evaluation only",
+  "uncorrected_reference_point_error_m": 0.7862386547870763,
+  "reference_point_correction": "Axle midpoint x=0.5542825 m in model frame; convert estimate to model origin using estimated heading only"
+}

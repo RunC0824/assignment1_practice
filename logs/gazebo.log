@@ -1,0 +1,223 @@
+Error opening log file: /home/ir/.gz/auto_default.log
+Error opening log file: /home/ir/.gz/auto_default.log
+Error opening log file: /home/ir/.gz/sim/log/2026-10-12T04:07:25.941143180/server_console.log
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.446: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.447: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.449: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.467: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.468: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.468: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.469: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.471: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.571: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.582: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.582: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.582: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.582: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.582: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.705: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.711: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.711: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.711: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.711: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.712: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.745: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.751: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.751: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.751: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.751: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.752: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.785: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.790: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.790: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.790: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.790: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.790: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.824: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.830: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.831: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.831: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.831: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.831: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.871: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.877: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.878: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.878: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.878: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.878: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.909: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.916: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.916: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.916: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.916: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.916: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.955: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.961: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.961: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.961: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.961: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:27.961: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.020: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.027: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.027: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.027: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.027: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.027: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.065: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.075: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.075: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.075: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.075: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.076: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.129: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.136: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.136: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.136: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.137: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.137: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.180: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.192: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.192: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.192: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.192: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.192: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.252: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.259: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.259: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.259: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.259: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.260: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.324: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.330: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.330: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.331: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.331: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.331: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.365: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.374: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.374: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.374: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.374: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.374: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.488: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.496: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.496: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.496: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.496: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.496: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.594: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.603: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.603: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.603: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.603: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
+
+(gz sim gui:12): dconf-CRITICAL **: 04:07:28.603: unable to create file '/run/user/1000/dconf/user': Read-only file system.  dconf will not work properly.
