@@ -1,0 +1,8 @@
+build/
+install/
+log/
+logs/
+data/**/*.csv
+__pycache__/
+*.pyc
+PROGRESS.md
