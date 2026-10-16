@@ -1,0 +1,7 @@
+PASS: complete motion, finite monotonic data, seeded uncertainty replay and saved error calculations.
+Raw samples: wheels=101213, truth=5187
+Pose estimates=5138, aligned errors=5138
+Position RMSE=0.194069 m; final position error=0.230118 m
+Final heading error=9.974321 deg
+Unalignable samples=0; pending at last live checkpoint=0
+Scope: preliminary Stage 2 functional run, including stationary samples.

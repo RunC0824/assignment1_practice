@@ -6,3 +6,8 @@ data/**/*.csv
 __pycache__/
 *.pyc
 PROGRESS.md
+data/latest_stage2.txt
+data/stage2_*/
+tests/__pycache__/
+launch_params_*
+matplotlib-*/
