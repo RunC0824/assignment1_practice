@@ -1,8 +1,9 @@
 # IRA1 — Wheel Odometry and Error Tracking
 
-**Author:** Keran Chen
 
-**Environment:** Ubuntu 24.04, ROS 2 Jazzy, Gazebo Sim 8.15.0.
+
+**Environment:** 
+Ubuntu 24.04, ROS 2 Jazzy, Gazebo Sim 8.15.0.
 
 A differential-drive robot follows a short square route. Wheel odometry estimates
 its position and heading; independent simulator ground truth evaluates the error.
@@ -30,13 +31,12 @@ the experiment terminal to stop recording; close Gazebo before starting another 
 
 ## Method
 
-- Lecture 2 midpoint wheel odometry, starting from known pose `(0, 0, 0)`.
-- Input: `/wheel_states`; output: `/estimated_pose`.
-- Ground truth is used only for timestamp-aligned evaluation.
-- Wheel radius: 0.15 m; separation: 0.625 m; encoder: 2048 counts/revolution.
-- Measurement model: `measured_delta = (1 + bias) * delta + epsilon`, with
-  Gaussian standard deviation `0.01 * sqrt(abs(delta))` metres.
-- Left/right scale bias: 0% / 1%; random seed: 42. These are experiment assumptions.
+Lecture 2 midpoint wheel odometry, starting from known pose `(0, 0, 0)`.
+Input: `/wheel_states`; output: `/estimated_pose`.
+Ground truth is used only for timestamp-aligned evaluation.
+Wheel radius: 0.15 m; separation: 0.625 m; encoder: 2048 counts/revolution.
+Measurement model: `measured_delta = (1 + bias) * delta + epsilon`, with Gaussian standard deviation `0.01 * sqrt(abs(delta))` metres.
+Left/right scale bias: 0% / 1%; random seed: 42. These are experiment assumptions.
 
 Parameters: `src/ira1_sim/config/odometry.yaml`.
 
