@@ -11,3 +11,4 @@ data/stage2_*/
 tests/__pycache__/
 launch_params_*
 matplotlib-*/
+submission/

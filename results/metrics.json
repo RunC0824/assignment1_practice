@@ -1,0 +1,70 @@
+{
+  "method": "Lecture 2 midpoint wheel odometry with error tracking",
+  "changed_parameter": "noise_std_m_per_sqrt_m",
+  "configs": {
+    "baseline": {
+      "wheel_radius_m": 0.15,
+      "wheel_separation_m": 0.625,
+      "encoder_counts_per_rev": 2048,
+      "update_period_s": 0.02,
+      "noise_std_m_per_sqrt_m": 0.0,
+      "left_scale_bias": 0.0,
+      "right_scale_bias": 0.01,
+      "seed": 42,
+      "initial_x_m": 0.0,
+      "initial_y_m": 0.0,
+      "initial_theta_rad": 0.0
+    },
+    "noisy": {
+      "wheel_radius_m": 0.15,
+      "wheel_separation_m": 0.625,
+      "encoder_counts_per_rev": 2048,
+      "update_period_s": 0.02,
+      "noise_std_m_per_sqrt_m": 0.01,
+      "left_scale_bias": 0.0,
+      "right_scale_bias": 0.01,
+      "seed": 42,
+      "initial_x_m": 0.0,
+      "initial_y_m": 0.0,
+      "initial_theta_rad": 0.0
+    }
+  },
+  "evaluation_window": {
+    "source_run": "stage2_20261017_040004_NpG4",
+    "initial_pose": "Known configured origin (0 m, 0 m, 0 rad)",
+    "motion_start_s": 4.463,
+    "motion_end_s": 56.305,
+    "evaluation_end_target_s": 57.305,
+    "window_rule": "First encoder motion to one second after the last encoder motion; no extended idle tail",
+    "total_absolute_wheel_distance_m": 9.96826735391726,
+    "sha256": {
+      "ground_truth.csv.gz": "c1b8201946c03e5f51ee2e4ac5c226e37a1af2b511df72f1588cd24ece96aeff",
+      "wheel_states.csv.gz": "fe42ba4b32ccc7f60424c1874348da5c05d049cda5c2cc29fb84da8aa5bc4b64"
+    }
+  },
+  "metrics": {
+    "baseline": {
+      "samples": 2631,
+      "first_time_s": 4.463,
+      "last_time_s": 57.305,
+      "duration_s": 52.842,
+      "final_position_error_m": 0.2218327188965745,
+      "final_heading_error_deg": 9.150239265967596,
+      "position_rmse_m": 0.14592829170599328,
+      "max_position_error_m": 0.2554760679272459,
+      "heading_rmse_deg": 5.4914063541007
+    },
+    "noisy": {
+      "samples": 2631,
+      "first_time_s": 4.463,
+      "last_time_s": 57.305,
+      "duration_s": 52.842,
+      "final_position_error_m": 0.18080016195898496,
+      "final_heading_error_deg": 8.886288273416929,
+      "position_rmse_m": 0.1072997506854022,
+      "max_position_error_m": 0.21632016140357072,
+      "heading_rmse_deg": 3.9545347299130107
+    }
+  },
+  "limitations": "One recorded route and one random seed; no statistical claim across independent trials"
+}

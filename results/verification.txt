@@ -1,0 +1,5 @@
+PASS: 9 numerical/time-alignment unit tests.
+PASS: exact replay of 7 CSV/JSON/PNG result files from included compressed recordings.
+PASS: only noise_std_m_per_sqrt_m differs between the two conditions.
+PASS: 2,631 matching timestamps per condition; all position errors and final metrics recomputed successfully.
+PASS: one-page report visually inspected; axes, metre units and trajectory legend verified.
