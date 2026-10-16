@@ -1,0 +1,13 @@
+{
+  "source_run": "stage2_20261017_040004_NpG4",
+  "initial_pose": "Known configured origin (0 m, 0 m, 0 rad)",
+  "motion_start_s": 4.463,
+  "motion_end_s": 56.305,
+  "evaluation_end_target_s": 57.305,
+  "window_rule": "First encoder motion to one second after the last encoder motion; no extended idle tail",
+  "total_absolute_wheel_distance_m": 9.96826735391726,
+  "sha256": {
+    "ground_truth.csv.gz": "c1b8201946c03e5f51ee2e4ac5c226e37a1af2b511df72f1588cd24ece96aeff",
+    "wheel_states.csv.gz": "fe42ba4b32ccc7f60424c1874348da5c05d049cda5c2cc29fb84da8aa5bc4b64"
+  }
+}

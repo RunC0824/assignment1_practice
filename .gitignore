@@ -1,0 +1,16 @@
+build/
+install/
+log/
+logs/
+data/**/*.csv
+__pycache__/
+*.pyc
+PROGRESS.md
+data/latest_stage2.txt
+data/stage2_*/
+tests/__pycache__/
+launch_params_*
+matplotlib-*/
+submission/
+results/Assignment1_Report_Keran_Chen.pdf
+scripts/build_report.py

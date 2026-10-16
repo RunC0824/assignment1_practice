@@ -1,0 +1,22 @@
+{
+  "parameters": {
+    "wheel_radius_m": 0.15,
+    "wheel_separation_m": 0.625,
+    "encoder_counts_per_rev": 2048,
+    "update_period_s": 0.02,
+    "noise_std_m_per_sqrt_m": 0.01,
+    "left_scale_bias": 0.0,
+    "right_scale_bias": 0.01,
+    "seed": 42,
+    "initial_x_m": 0.0,
+    "initial_y_m": 0.0,
+    "initial_theta_rad": 0.0
+  },
+  "method": "Lecture 2 midpoint wheel odometry",
+  "measurement_model": "d_measured=(1+bias)*d_quantised+Normal(0,k*sqrt(abs(d_quantised)))",
+  "noise_units": "k in m/sqrt(m)",
+  "initial_pose_source": "Known experiment configuration; never read from ground truth",
+  "input_topic": "/wheel_states",
+  "output_topic": "/estimated_pose",
+  "ground_truth_used_for_estimation": false
+}

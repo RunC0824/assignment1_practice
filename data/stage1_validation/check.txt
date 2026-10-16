@@ -1,0 +1,6 @@
+wheel_states: 91071 samples, t=0.831 to 94.884 s
+ground_truth: 4655 samples, t=0.820 to 93.900 s
+x_m extent: 2.063 m
+y_m extent: 2.072 m
+PASS: timestamps, wheel motion, physical translation and turning verified.
+This is simulation interface validation, not localisation accuracy analysis.

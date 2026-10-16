@@ -1,0 +1,16 @@
+{
+  "samples": 5138,
+  "dropped_unalignable_samples": 0,
+  "first_time_s": 0.9880000000000001,
+  "last_time_s": 104.089,
+  "position_rmse_m": 0.1940686414605336,
+  "heading_rmse_rad": 0.1358214928160033,
+  "max_position_error_m": 0.2656624976531281,
+  "max_abs_heading_error_rad": 0.17509903582992292,
+  "last_position_error_m": 0.23011753748239097,
+  "last_heading_error_rad": 0.17408474910938665,
+  "alignment": "linear x/y and shortest-angle yaw interpolation of bracketing simulator truth; no extrapolation",
+  "scope": "Stage 2 functional run; statistics cover all aligned samples, including stops",
+  "summary_source": "Final statistics recomputed from saved errors.csv; unmatched end samples are not extrapolated",
+  "live_checkpoint_pending_samples": 0
+}
