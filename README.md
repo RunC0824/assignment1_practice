@@ -45,8 +45,8 @@ Parameters: `src/ira1_sim/config/odometry.yaml`.
 Each run saves raw wheel data, ground truth, estimated poses, errors and parameters
 under `data/stage2_*/`. The latest directory is listed in `data/latest_stage2.txt`.
 
-`results/` contains the final one-page English report, labelled trajectory plot,
-error comparison and numerical results. The controlled comparison replays the
+`results/` contains the labelled trajectory plot, error comparison and numerical
+results. The one-page report is kept locally and included only in the Canvas ZIP. The controlled comparison replays the
 same wheel data with k = 0 and k = 0.01; all other parameters remain fixed.
 Final position errors are **0.2218 m** and **0.1808 m**, respectively (seed 42).
 This single realisation does not establish a statistical trend.
@@ -72,6 +72,5 @@ python3 scripts/compare_noise.py
 ```
 
 The compressed recordings in `experiments/input/` make this comparison repeatable
-without launching Gazebo. To rebuild the report, run `scripts/build_report.py`
-with a Python environment containing ReportLab and the DejaVu fonts.
+without launching Gazebo. The report and its generator are excluded from Git.
 The Canvas ZIP includes the report, plots, runnable source, recordings and `.git`.

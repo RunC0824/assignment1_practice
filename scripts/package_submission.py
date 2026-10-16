@@ -14,6 +14,14 @@ if status.strip():
     raise SystemExit('Commit tracked changes before packaging so the ZIP and history agree')
 tracked=subprocess.check_output(['git','-C',str(ROOT),'ls-files','-z']).decode().split('\0')
 files=[ROOT/name for name in tracked if name]
+# Keep the report local and include it only in the Canvas submission.
+local_report=ROOT/'results/Assignment1_Report_Keran_Chen.pdf'
+if not local_report.is_file():
+    raise SystemExit('The local one-page report is required for the Canvas ZIP')
+files.append(local_report)
+local_generator=ROOT/'scripts/build_report.py'
+if local_generator.is_file():
+    files.append(local_generator)
 metadata=ROOT/'.git'
 if not metadata.is_dir():
     raise SystemExit('A full local .git directory is required for this coursework submission')
